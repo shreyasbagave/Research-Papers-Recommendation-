@@ -1,0 +1,4 @@
+Tensorflow  == 2.15.0
+Sentence-transformer  2.3.1
+Torch 2.0.1
+Streamlit
